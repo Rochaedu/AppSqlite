@@ -1,4 +1,3 @@
-# sql_how_to
-Exercicio SQLite - Dispositivos móveis - Fatec Araras
+# AppSqlite
 
-![Tela app](https://raw.githubusercontent.com/dsicari/sql_how_to/master/tela.PNG)
+* Aplicativo desenvolvido em sala de aula pela disciplina Desenvolvimento de Dispositivos Móveis.
